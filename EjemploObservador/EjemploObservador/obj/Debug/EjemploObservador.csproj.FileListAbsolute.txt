@@ -1,0 +1,7 @@
+C:\Users\carlos.can\source\repos\EjemploObservador\EjemploObservador\obj\Debug\EjemploObservador.csprojAssemblyReference.cache
+C:\Users\carlos.can\source\repos\EjemploObservador\EjemploObservador\obj\Debug\EjemploObservador.csproj.CoreCompileInputs.cache
+C:\Users\carlos.can\source\repos\EjemploObservador\EjemploObservador\bin\Debug\EjemploObservador.exe.config
+C:\Users\carlos.can\source\repos\EjemploObservador\EjemploObservador\bin\Debug\EjemploObservador.exe
+C:\Users\carlos.can\source\repos\EjemploObservador\EjemploObservador\bin\Debug\EjemploObservador.pdb
+C:\Users\carlos.can\source\repos\EjemploObservador\EjemploObservador\obj\Debug\EjemploObservador.exe
+C:\Users\carlos.can\source\repos\EjemploObservador\EjemploObservador\obj\Debug\EjemploObservador.pdb
